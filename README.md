@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ADARSH-41
-- 👀 I’m interested in Competitive Coding and Applications of programming skills to real life world.
-- 🌱 I’m currently learning C and C++ programming languages.
-- 💞️ I’m looking to collaborate on Amazon through an internship.
+- 👋 This is Adarsh
+- 👀 Interested in competitive coding
+- 🌱 a java developer
+- 💞️ enthusiastic to apply skill set to solve problems in realtime
 - 📫 You can reach me through my email - nallaadarsh81199@gmail.com
 
 <!---
