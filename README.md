@@ -1,5 +1,5 @@
 - 👋 This is Adarsh
-- 👀 Interested in competitive coding
+- 👀 Interested in CP, DS Algo and Dev
 - 🌱 a java developer
 - 💞️ enthusiastic to apply skill set to solve problems in realtime
 - 📫 You can reach me through my email - nallaadarsh81199@gmail.com
